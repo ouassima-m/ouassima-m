@@ -1,12 +1,13 @@
 # Hi there, I'm Ouassima 👋
 
-Welcome to my profile! I am a passionate software developer with a keen interest in web development, machine learning, and open-source contributions.
+Welcome to my profile! I am a passionate software engineer with a keen interest in web development and mobile development.
 
 ## 🚀 About Me
 
 - 💻 I’m currently working on improving my skills in **JavaScript**.
 - 🌱 I’m learning more about **machine learning**.
 - 🤔 I’m looking for help with advanced **machine learning algorithms**.
+- 💼 I’m currently looking for an internship opportunity in software development.
 - 📫 How to reach me: [Email](ouasmadmar@gmail.com)
 
 ## 🛠️ Languages and Tools
@@ -21,6 +22,7 @@ Welcome to my profile! I am a passionate software developer with a keen interest
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Firestore](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
