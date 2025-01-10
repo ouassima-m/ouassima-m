@@ -19,9 +19,9 @@ Welcome to my profile! I am a passionate software developer with a keen interest
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-## 📈 GitHub Stats
+<!---## 📈 GitHub Stats
 
-![Ouassima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouassima-m&show_icons=true&theme=radical)
+![Ouassima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouassima-m&show_icons=true&theme=radical)--->
 
 ## 🏆 Top Languages
 
