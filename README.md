@@ -12,10 +12,15 @@ Welcome to my profile! I am a passionate software developer with a keen interest
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
@@ -29,7 +34,7 @@ Welcome to my profile! I am a passionate software developer with a keen interest
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ouassima-madmar-848b37340/)
 
 Thanks for visiting my profile! Have a great day! 😊
 
