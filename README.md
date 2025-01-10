@@ -28,13 +28,14 @@ Welcome to my profile! I am a passionate software developer with a keen interest
 
 ![Ouassima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouassima-m&show_icons=true&theme=radical)--->
 
-## 🏆 Top Languages
+<!---## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ouassima-m&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ouassima-m&layout=compact&theme=radical) --->
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ouassima-madmar-848b37340/)
+[LinkedIn](https://www.linkedin.com/in/ouassima-madmar-848b37340/)
+[Email](ouasmadmar@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😊
 
