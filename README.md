@@ -39,7 +39,7 @@ Welcome to my profile! I am a passionate software engineer with a keen interest 
 [LinkedIn](https://www.linkedin.com/in/ouassima-madmar-848b37340/)
 [Email](ouasmadmar@gmail.com)
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! Have a nice day! 😊
 
 
 
